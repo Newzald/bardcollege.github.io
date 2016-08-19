@@ -228,11 +228,11 @@ var rules = {
   "~*x fuck yourself~*y":[
   	"Fuck you too, buddy. c:",
   	"weeeew, edgggggyyyyyyy",
-  ]
+  ],
   "~*x This is ~*y":[
   	"You're ~y",
 	 "Edgy.",
-  ]
+  ],
 };
 
 var default_responses = [
