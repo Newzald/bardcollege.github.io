@@ -225,6 +225,14 @@ var rules = {
   "~*x perhaps ~*y": [
     "You do not seem quite certain",
   ],
+  "~*x fuck yourself~*y":[
+  	"Fuck you too, buddy. c:",
+  	"weeeew, edgggggyyyyyyy",
+  ]
+  "~*x This is ~*y":[
+  	"You're ~y",
+	 "Edgy.",
+  ]
 };
 
 var default_responses = [
