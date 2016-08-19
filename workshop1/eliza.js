@@ -225,7 +225,7 @@ var rules = {
   "~*x perhaps ~*y": [
     "You do not seem quite certain",
   ],
-  "~*x fuck yourself~*y":[
+  "~*x fuck yourself ~*y":[
   	"Fuck you too, buddy. c:",
   	"weeeew, edgggggyyyyyyy",
   ],
